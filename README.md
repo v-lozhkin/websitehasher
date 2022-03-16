@@ -1,6 +1,6 @@
 # MD5 Website hasher 1.0.0
 ___
-This CLI tool can get any internet resource and print its MD5 hash,
+This CLI tool can get any internet resource and print its MD5 hash
 
 
 ## Features:
